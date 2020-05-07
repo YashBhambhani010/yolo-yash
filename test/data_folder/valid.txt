@@ -1,0 +1,2 @@
+catkin_ws/src/darknet/test/data_folder/validset/frame0022.jpg
+catkin_ws/src/darknet/test/data_folder/validset/frame0039.jpg
